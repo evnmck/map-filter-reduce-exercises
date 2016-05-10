@@ -1,6 +1,6 @@
 # Visual Hierarchy
 
-Take [this HTML page](http://jsbin.com/vuwutemepi/edit?html,console,outputg),
+Take [this HTML page](http://jsbin.com/vuwutemepi/edit?html,css,output),
 and give it a [visual hierarchy](http://blog.formedfunction.com/post/3029763425/on-visual-hierarchy).
 
 ## Stretch
