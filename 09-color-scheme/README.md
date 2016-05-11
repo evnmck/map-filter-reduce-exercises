@@ -1,8 +1,15 @@
 # Create a Color Scheme using HSL
 
+## Exercise
+
 0. Create a color scheme and apply it to [this pen](http://codepen.io/dannyfritz/pen/BKbrLK?editors=1100).
+  * Make sure you use HSL for your colors
+  * Try to experiment with changing HSL values to get colors that jive with each other.
 0. Share your color palette in Slack.
 0. Use the color scheme and apply it to [this sample site](http://jsbin.com/kivaco/edit?html,css,output).
+  * Focus on just changing the colors.
+  * If you think it will add a ton to your color palette,
+  change the layout, font, etc.
 0. Share your sample site in Slack.
 0. Stretches:
   * Create a new site for your color scheme
