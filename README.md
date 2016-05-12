@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # map-filter-reduce
 
 Let's practice using `map`, `filter`, and `reduce`!
@@ -187,3 +188,7 @@ users.reduce(function (usersObj, user) {
 ```
 
 Notice the empty object as the second argument in reduce, as well as the fact that we're constantly returning our `usersObj` on each iteration.
+=======
+# warmup
+Warmups to get people thinking. Kind of like coffee, but more bitter.
+>>>>>>> e7c4e26c33516b37ca0e5d31b587112b8f4eff9e

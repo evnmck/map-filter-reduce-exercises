@@ -1,0 +1,22 @@
+.hover, button:hover,
+input[type=button]:hover,
+input[type=submit]:hover {
+  color: #666;
+  background: rgba(114, 170, 208, 0.7);
+  border: 3px solid rgba(102, 102, 102, 0.3); }
+
+.active, button:active,
+input[type=button]:active,
+input[type=submit]:active {
+  color: #666;
+  background: #72AAD0;
+  border: 3px solid #89DDFF; }
+
+.main, button,
+input[type=button],
+input[type=submit] {
+  width: 15%;
+  height: 30%;
+  color: #EDFFF9;
+  background: #40FD65;
+  border: 3px solid rgba(102, 102, 102, 0.3); }

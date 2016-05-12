@@ -1,9 +1,14 @@
 function multiplyBy10 (array) {
- // your code here
+ return array.map(el => {
+     return el * 10;
+ })
 };
 
 function shiftRight (array) {
- // your code here
+ return array.map((el, index, arrays) => {
+     return arrays.unshift(arrays.pop());
+ })
+ return array;
 };
 
 function onlyVowels (array) {

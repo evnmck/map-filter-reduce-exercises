@@ -1,0 +1,28 @@
+button,
+input[type=button],
+input[type=submit] {
+    @extend .main;
+    &:hover {
+        @extend .hover;
+    }
+    &:active {
+        @extend .active;
+    }
+}
+.hover {
+    color: #666;
+    background: rgba(#72AAD0, 0.7);
+    border: 3px solid rgba(#666, 0.3);
+}
+.active {
+    color: #666;
+    background: #72AAD0;
+    border: 3px solid #89DDFF;
+}
+.main {
+    width: 15%;
+    height: 30%;
+    color: #EDFFF9;
+    background: #40FD65;
+    border: 3px solid rgba(#666, 0.3);
+}
